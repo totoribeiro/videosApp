@@ -49,7 +49,7 @@ export class Tab1Page {
       classificacao: 79,
       cartaz: 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dAtAp4IeT6EYGhewfnNNhalobme.jpg',
       generos: ['Ação', 'Crime'],
-      pagina: '/rogai-por-nos'
+      pagina: ''
     },
     {
       nome: 'Cruella (2021)',
@@ -58,7 +58,7 @@ export class Tab1Page {
       classificacao: 88,
       cartaz: 'https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ljPHd7WiPVKmuXi1hgQUpZQslbC.jpg',
       generos: ['Comédia', 'Crime'],
-      pagina: '/rogai-por-nos'
+      pagina: ''
     }
   ];
 
