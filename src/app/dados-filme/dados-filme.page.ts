@@ -1,4 +1,3 @@
-import { SemRemorsoPageRoutingModule } from './../filmes/sem-remorso/sem-remorso-routing.module';
 import { IFilmeApi } from './../models/IFilmeAPI.model';
 import { DadosService } from './../services/dados.service';
 import { Component, OnInit } from '@angular/core';
