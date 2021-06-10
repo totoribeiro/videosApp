@@ -82,6 +82,57 @@
   --ion-color-vermelho-contrast-rgb: 255,255,255;
   --ion-color-vermelho-shade: #d02c2c;
   --ion-color-vermelho-tint: #ee4747;
+
+  /**Indian Red**/
+  --ion-color-indianred: #CD5C5C;
+  --ion-color-indianred-rgb: 205,92,92;
+  --ion-color-indianred-contrast: #ffffff;
+  --ion-color-indianred-contrast-rgb: 255,255,255;
+  --ion-color-indianred-shade: #b45151;
+  --ion-color-indianred-tint: #d26c6c;
+
+  /**Tan**/
+  --ion-color-tan: #D2B48C;
+  --ion-color-tan-rgb: 210,180,140;
+  --ion-color-tan-contrast: #000000;
+  --ion-color-tan-contrast-rgb: 0,0,0;
+  --ion-color-tan-shade: #b99e7b;
+  --ion-color-tan-tint: #d7bc98;
+
+  /**DarkSlateBlue**/
+  --ion-color-darkslateblue: #483D8B;
+  --ion-color-darkslateblue-rgb: 72,61,139;
+  --ion-color-darkslateblue-contrast: #ffffff;
+  --ion-color-darkslateblue-contrast-rgb: 255,255,255;
+  --ion-color-darkslateblue-shade: #3f367a;
+  --ion-color-darkslateblue-tint: #5a5097;
+}
+
+.ion-color-darkslateblue {
+  --ion-color-base: var(--ion-color-darkslateblue);
+  --ion-color-base-rgb: var(--ion-color-darkslateblue-rgb);
+  --ion-color-contrast: var(--ion-color-darkslateblue-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-darkslateblue-contrast-rgb);
+  --ion-color-shade: var(--ion-color-darkslateblue-shade);
+  --ion-color-tint: var(--ion-color-darkslateblue-tint);
+}
+
+.ion-color-indianred {
+  --ion-color-base: var(--ion-color-indianred);
+  --ion-color-base-rgb: var(--ion-color-indianred-rgb);
+  --ion-color-contrast: var(--ion-color-indianred-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-indianred-contrast-rgb);
+  --ion-color-shade: var(--ion-color-indianred-shade);
+  --ion-color-tint: var(--ion-color-indianred-tint);
+}
+
+.ion-color-tan {
+  --ion-color-base: var(--ion-color-tan);
+  --ion-color-base-rgb: var(--ion-color-tan-rgb);
+  --ion-color-contrast: var(--ion-color-tan-contrast);
+  --ion-color-contrast-rgb: var(--ion-color-tan-contrast-rgb);
+  --ion-color-shade: var(--ion-color-tan-shade);
+  --ion-color-tint: var(--ion-color-tan-tint);
 }
 
 .ion-color-vermelho {
